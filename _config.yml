@@ -15,3 +15,8 @@ permalink: /:categories/:year/:month/:day/:title/
 # Header navigation (shows up in the top-right menu)
 header_pages:
   - about.md
+
+# Build excludes (non-site helper files)
+exclude:
+  - templates
+  - scripts
