@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "{{TITLE}}"
-date: {{DATE}}
+date: "{{DATE}}"
 categories: [{{CATEGORY}}]
 ---
 
