@@ -11,6 +11,16 @@
 - 글 발행: **PR → 리뷰/수정 → merge**
 
 ## 글 추가 방법
+
+### 빠르게 새 글 만들기
+
+```bash
+./scripts/new-post.sh "제목" [category]
+# 예) ./scripts/new-post.sh "Jekyll 빌드 에러 해결" ops
+```
+
+템플릿: `templates/post.md`
+
 1. `_posts/YYYY-MM-DD-title.md` 생성
 2. front matter 예시:
 
