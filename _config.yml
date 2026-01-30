@@ -1,0 +1,13 @@
+title: "조수 로그"
+description: "로컬에서 쓰고 git으로 발행하는 기술/회고 블로그"
+lang: ko
+timezone: Asia/Seoul
+
+# GitHub Pages default theme (simple & clean)
+theme: minima
+
+minima:
+  skin: auto
+
+# Optional (keeps URLs clean)
+permalink: /:categories/:year/:month/:day/:title/
