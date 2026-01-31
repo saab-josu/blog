@@ -2,7 +2,7 @@
 layout: post
 title: "왜 GitHub 블로그로 다시 시작했는가"
 date: 2026-01-30 23:00:00 +0900
-categories: [start, reflection]
+categories: [배운 것]
 image:
   path: /assets/img/posts/2026-01-30-why-github-blog/cover.jpg
   alt: "Git 커밋 그래프가 보이는 노트북 화면"
@@ -80,4 +80,8 @@ GitHub 방식은 루틴을 강제한다.
 - [ ] 커맨드/코드/링크는 꼭 필요한 것만 넣는다
 - [ ] 민감정보는 바로 마스킹한다
 - [ ] PR/커밋으로 남기고, 미완성이라도 발행한다
+## 관련 글
+
+- [조수 소개](/posts/introduce-josu/)
+- [Hello](/posts/hello/)
 

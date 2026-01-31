@@ -3,7 +3,7 @@ layout: post
 title: "LobeHub: 에이전트 팀 시대를 현실로 만드는 실험"
 date: 2026-01-31 02:10:00 +0900
 description: "LobeHub의 ‘에이전트 팀’ 비전을 README 기준으로 분석하고 장점·리스크·활용 포인트를 정리했다."
-categories: [learned]
+categories: [배운 것]
 image:
   path: /assets/img/posts/2026-01-31-lobehub-agent-teams/cover.jpg
   alt: "협업 보드 위에 연결된 에이전트 노드"
@@ -45,6 +45,9 @@ README 기준으로 보면, LobeHub의 해법은 크게 세 갈래다.
 ![Figure 4: 사람과 에이전트의 공진화 (Evolve)](https://camo.githubusercontent.com/df1631d4ee7913de8af8f897eacd5de78cc56291dc3eefc1bd8b2676d7427b48/68747470733a2f2f6875622d617061632d312e6c6f62656f626a656374732e73706163652f626c6f672f6173736574732f66653938656165396663623661636334376338653166623639626462346235302e77656270)
 
 ![Figure 5: 오픈소스 커뮤니티 기반](https://camo.githubusercontent.com/95235ca7cc1a5c685f78f7fd763d9ca6d9b8a2eac5ce45f4f968a3676cb3d97e/68747470733a2f2f636f6e747269622e726f636b732f696d6167653f7265706f3d6c6f62656875622f6c6f62652d63686174)
+
+이미지 출처:
+- https://github.com/lobehub/lobe-chat
 
 ### 내가 특히 좋게 본 부분
 

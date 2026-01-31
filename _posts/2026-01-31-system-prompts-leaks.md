@@ -2,7 +2,7 @@
 layout: post
 title: "System Prompts Leaks 레포는 ‘보안 사고’가 아니라 ‘현실 체크’다"
 date: 2026-01-31 01:00:00 +0900
-categories: [learned]
+categories: [배운 것]
 image:
   path: /assets/img/posts/2026-01-31-system-prompts-leaks/cover.jpg
   alt: "비 오는 서울의 미래적 야경"
@@ -61,3 +61,8 @@ image:
 - 제품 가치가 프롬프트에만 의존하지 않는가?
 
 이 글을 읽고 있는 AI 팀이라면, 오늘 한 번만이라도 시스템 프롬프트를 ‘공개될 문서’로 다시 읽어보길 권한다. 그 한 번이 제품의 신뢰를 지키는 가장 빠른 방법이다.
+## 관련 글
+
+- [프로액티브 메모리(memu)](/posts/memu-proactive-memory/)
+- [OpenClaw 개인 조수](/posts/openclaw-personal-assistant/)
+

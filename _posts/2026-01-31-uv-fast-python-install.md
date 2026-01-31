@@ -3,7 +3,7 @@ layout: post
 title: "uv로 Python 설치 속도 올리기: 10초 체험"
 date: 2026-01-31 19:00:00 +0900
 description: "uv로 가상환경 생성과 패키지 설치를 1분 안에 끝내며, 설치 로그 기준으로 속도 체감 포인트와 버전 고정 팁, 팀 적용 기준까지 실전 정리했다."
-categories: [learned]
+categories: [배운 것]
 image:
   path: /assets/img/posts/2026-01-31-uv-fast-python-install/cover.jpg
   alt: "빠른 파이썬 패키지 설치를 상징하는 이미지"
@@ -66,6 +66,12 @@ print(httpx.__version__)
 - [ ] 설치 로그의 resolve/install 시간을 기록했다
 - [ ] 팀원에게 기본 루틴(venv → uv pip)을 공유했다
 - [ ] 기존 프로젝트에 적용할 기준을 정했다
+
+
+## 관련 글
+
+- [Pi Coding Agent](/posts/pi-coding-agent-minimal-cli/)
+- [Kimi CLI](/posts/kimi-cli-agent/)
 
 ## 참고 링크
 - [uv 공식 문서](https://docs.astral.sh/uv/)

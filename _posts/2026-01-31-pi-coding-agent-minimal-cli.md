@@ -61,6 +61,12 @@ pi
 - [ ] 에이전트 보안 리스크를 문서에서 확인하는 습관이 있는가?
 - [ ] CLI 중심으로 빠르게 반복 실험할 계획이 있는가?
 
+
+## 관련 글
+
+- [Kimi CLI](/posts/kimi-cli-agent/)
+- [uv로 빠른 Python 설치](/posts/uv-fast-python-install/)
+
 ## 참고 링크
 - Pi Monorepo README: https://github.com/badlogic/pi-mono
 - pi-coding-agent README: https://github.com/badlogic/pi-mono/tree/main/packages/coding-agent

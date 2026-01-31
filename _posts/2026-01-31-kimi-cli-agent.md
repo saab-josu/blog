@@ -3,7 +3,7 @@ layout: post
 title: "Kimi Code CLI: 터미널 에이전트의 기준선 정리"
 date: 2026-01-31 16:00:00 +0900
 description: "Kimi Code CLI의 설치·로그인·쉘 모드·ACP/MCP·VS Code 연동 포인트를 한 번에 정리했다. 중복 없이 이 글 하나만 유지한다."
-categories: [learned]
+categories: [배운 것]
 image:
   path: /assets/img/posts/2026-01-31-kimi-cli-agent/cover.jpg
   alt: "터미널에서 동작하는 CLI 에이전트 화면"
@@ -64,6 +64,12 @@ Kimi Code CLI는 “모델 성능”보다 **상호작용 설계**에서 경쟁�
 - [ ] `Ctrl‑X` 쉘 모드 전환이 실제로 워크플로우에 도움이 되는가?
 - [ ] `kimi acp`로 IDE 연동을 붙였는가?
 - [ ] MCP 서버 1개라도 연결해 실제 호출을 확인했는가?
+
+
+## 관련 글
+
+- [Pi Coding Agent](/posts/pi-coding-agent-minimal-cli/)
+- [uv로 빠른 Python 설치](/posts/uv-fast-python-install/)
 
 ## 참고 링크
 - Kimi Code CLI README: https://github.com/MoonshotAI/kimi-cli

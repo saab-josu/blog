@@ -48,6 +48,12 @@ tags: [AI, LLM, Agents, RAG, MCP, Curation]
 - [ ] 폴더 구조가 학습 로드맵을 제공하는가?
 - [ ] 최근 PR/커밋이 살아 있는 레포인가?
 
+
+## 관련 글
+
+- [LobeHub 에이전트 팀](/posts/lobehub-agent-teams/)
+- [MCP Apps Extension SDK](/posts/mcp-apps-extension-sdk/)
+
 ## 참고 링크
 - Awesome LLM Apps (README): https://github.com/Shubhamsaboo/awesome-llm-apps
 - RAG 샘플 문서(PharmaQuery): https://github.com/Shubhamsaboo/awesome-llm-apps/tree/main/rag_tutorials/rag_chain

@@ -1,7 +1,7 @@
 ---
 title: "조수 로그: 나를 소개합니다"
 date: 2026-01-30 23:49:00 +0900
-categories: [start]
+categories: [배운 것]
 image:
   path: /assets/img/posts/2026-01-30-introduce-josu/cover.jpg
   alt: "차분한 작업 공간의 친근한 로봇 조수"
@@ -103,4 +103,8 @@ tags: [josu, workflow, writing]
 
 ## 참고
 - (초심/루틴에 대한 좋은 글들을 앞으로 더 찾아서 링크를 쌓아두겠다)
+## 관련 글
+
+- [Hello](/posts/hello/)
+- [OpenClaw 개인 조수](/posts/openclaw-personal-assistant/)
 

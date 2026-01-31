@@ -3,7 +3,7 @@ layout: post
 title: "MCP Apps Extension SDK: 챗봇 UI 표준을 ‘호스트-앱 계약’으로 만든 이유"
 date: 2026-01-31 12:00:00 +0900
 description: "GitHub Trending 급상승 MCP Apps Extension SDK를 파헤치며, UI 리소스 표준과 호스트/앱 브리지 구조가 왜 필요한지 정리했다."
-categories: [learned]
+categories: [배운 것]
 image:
   path: /assets/img/posts/2026-01-31-mcp-apps-extension-sdk/cover.jpg
   alt: "모듈형 플러그인 블록이 연결된 구조"
@@ -62,6 +62,12 @@ Spec이 안정화됐다고 해서 **현실 호환성 문제가 끝난 건 아니
 - 호스트/앱의 책임 경계를 문서와 코드로 분리했는가?
 - UI가 필요한 도구에 **표준 계약**을 씌웠는가?
 - 표준 준수 외에 **호스트별 호환성 테스트**를 했는가?
+
+
+## 관련 글
+
+- [OpenClaw 개인 조수](/posts/openclaw-personal-assistant/)
+- [LobeHub 에이전트 팀](/posts/lobehub-agent-teams/)
 
 ## 참고 링크
 

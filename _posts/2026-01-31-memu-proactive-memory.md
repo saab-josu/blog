@@ -3,7 +3,7 @@ layout: post
 title: "memU: 프로액티브 메모리를 ‘실행되는 시스템’으로 만든다"
 date: 2026-01-31 11:25:00 +0900
 description: "GitHub Trending 급상승 memU를 로컬 설치·실행하며 구조와 핵심 소스를 분석했다. 결과/스크린샷/CLI 출력까지 포함한 실전 리뷰."
-categories: [learned]
+categories: [배운 것]
 tags: [memu, agent, memory, ai, open-source]
 image:
   path: /assets/img/posts/2026-01-31-memu/banner.png

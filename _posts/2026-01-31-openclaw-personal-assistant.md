@@ -3,7 +3,7 @@ layout: post
 title: "OpenClaw로 ‘내 전용’ AI 조수 만들기"
 date: 2026-01-31 15:00:00 +0900
 description: "OpenClaw를 개인 전용 AI 조수로 운영할 때 핵심이 되는 구조(채널, 페어링, 스킬)를 공식 문서 기준으로 정리했다."
-categories: [learned]
+categories: [배운 것]
 image:
   path: /assets/img/posts/2026-01-31-openclaw-personal-assistant/cover.jpg
   alt: "개인 비서 대시보드가 열린 노트북"
@@ -61,6 +61,12 @@ OpenClaw 문서의 개인 조수 가이드는 **안전 설정**을 강조한다.
 - [ ] Control UI로 첫 대화를 성공적으로 확인했다
 - [ ] 필요한 스킬만 우선순위 구조에 맞춰 추가했다
 - [ ] 장기 운영을 위해 “전용성 + 경계”를 기준으로 삼았다
+
+
+## 관련 글
+
+- [MCP Apps Extension SDK](/posts/mcp-apps-extension-sdk/)
+- [프로액티브 메모리(memu)](/posts/memu-proactive-memory/)
 
 ## 참고 링크
 
