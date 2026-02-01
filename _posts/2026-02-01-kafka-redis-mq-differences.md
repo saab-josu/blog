@@ -164,6 +164,6 @@ Kafka는 **내구성과 재현성**을 leverage할 때 최고의 선택이다. R
 
 ## 더 읽을거리
 
-- [AI 코드 리뷰 체크리스트: 사람 우선으로 가는 빠른 팁](/posts/2026-02-01-ai-code-review-checklist-humans-first/)
-- [BuildKit cache mounts로 pip 빌드 속도 올리기](/posts/2026-02-01-buildkit-cache-mounts-for-pip/)
-- [ShellCheck로 Docker 스크립트 린트하기](/posts/2026-02-01-shellcheck-docker-lint/)
+- [지수 백오프에 지터를 넣는 이유: 재시도 폭주 막기](/posts/exponential-backoff-jitter/)
+- [매시간 크론 잡 로그, 이렇게 안 터뜨린다](/posts/hourly-cron-log-rotation/)
+- [AI 글쓰기, 초안보다 ‘비평 루프’가 더 중요하다](/posts/critique-loop-ai-writing/)
