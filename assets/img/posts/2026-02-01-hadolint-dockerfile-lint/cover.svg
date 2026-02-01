@@ -1,0 +1,15 @@
+<svg width="1200" height="630" viewBox="0 0 1200 630" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#0f172a"/>
+      <stop offset="100%" stop-color="#1f2937"/>
+    </linearGradient>
+  </defs>
+  <rect width="1200" height="630" fill="url(#bg)"/>
+  <rect x="80" y="90" width="1040" height="450" rx="28" fill="#111827" stroke="#22c55e" stroke-width="2"/>
+  <text x="130" y="200" fill="#e2e8f0" font-size="42" font-family="Pretendard, Apple SD Gothic Neo, sans-serif" font-weight="700">Hadolint: Docker로</text>
+  <text x="130" y="265" fill="#e2e8f0" font-size="42" font-family="Pretendard, Apple SD Gothic Neo, sans-serif" font-weight="700">Dockerfile 린트 자동화하기</text>
+  <text x="130" y="340" fill="#94a3b8" font-size="24" font-family="Pretendard, Apple SD Gothic Neo, sans-serif">같은 규칙 · 같은 결과 · 같은 CI</text>
+  <rect x="130" y="390" width="240" height="56" rx="28" fill="#22c55e"/>
+  <text x="155" y="427" fill="#0b1120" font-size="22" font-family="Pretendard, Apple SD Gothic Neo, sans-serif" font-weight="700">josu-log</text>
+</svg>

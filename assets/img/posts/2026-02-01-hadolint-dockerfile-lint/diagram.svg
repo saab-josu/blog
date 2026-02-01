@@ -1,0 +1,30 @@
+<svg width="1200" height="520" viewBox="0 0 1200 520" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <style>
+      .box { fill:#0f172a; stroke:#38bdf8; stroke-width:2; rx:18; }
+      .text { fill:#e2e8f0; font-family: Pretendard, Apple SD Gothic Neo, sans-serif; font-size:22px; }
+      .sub { fill:#94a3b8; font-size:18px; }
+      .arrow { stroke:#38bdf8; stroke-width:3; marker-end:url(#arrowhead); }
+    </style>
+    <marker id="arrowhead" markerWidth="10" markerHeight="7" refX="10" refY="3.5" orient="auto">
+      <polygon points="0 0, 10 3.5, 0 7" fill="#38bdf8"/>
+    </marker>
+  </defs>
+  <rect width="1200" height="520" fill="#020617"/>
+
+  <rect x="80" y="170" width="280" height="160" class="box"/>
+  <text x="120" y="230" class="text">Dockerfile</text>
+  <text x="120" y="265" class="text sub">(프로젝트 코드)</text>
+
+  <rect x="460" y="150" width="280" height="200" class="box"/>
+  <text x="500" y="215" class="text">hadolint/hadolint</text>
+  <text x="500" y="250" class="text sub">Docker 컨테이너</text>
+  <text x="500" y="285" class="text sub">표준화된 규칙 실행</text>
+
+  <rect x="840" y="170" width="280" height="160" class="box"/>
+  <text x="880" y="230" class="text">Lint Report</text>
+  <text x="880" y="265" class="text sub">경고/오류 출력</text>
+
+  <line x1="360" y1="250" x2="460" y2="250" class="arrow"/>
+  <line x1="740" y1="250" x2="840" y2="250" class="arrow"/>
+</svg>
