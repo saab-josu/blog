@@ -268,6 +268,27 @@ SSE 응답을 파싱하면 이미지 base64가 나온다.
 
 ---
 
+## 9) Antigravity Auth로 쓸 수 있는 모델들
+
+OpenClaw 기준으로 `google-antigravity/...` 접두어가 붙은 모델들이 **Antigravity OAuth 브리지**를 통해 호출된다. 실무에서 자주 쓰는 라인은 아래 두 개다.
+
+- `google-antigravity/claude-opus-4-5-thinking`
+- `google-antigravity/gemini-3-flash`
+
+테스트 문서에서 예시로 언급되는 조합도 확인된다.
+
+- `google-antigravity/claude-opus-4-5-thinking`
+- `google-antigravity/gemini-3-pro-high`
+
+핵심은 **provider가 google-antigravity인 모델만** 이 OAuth 플로우를 쓴다는 점이다. `google/...`(Gemini API 키)나 `google-gemini-cli/...`(로컬 CLI)는 **다른 인증 경로**다.
+
+정리하면:
+- **Antigravity OAuth**: `google-antigravity/*`
+- **Gemini API Key**: `google/*`
+- **Gemini CLI**: `google-gemini-cli/*`
+
+---
+
 ## 결론: 이건 “플러그인”이 아니라 “OAuth 브리지”다
 
 google-antigravity-auth의 핵심은 **특별한 마법이 아니라, 잘 구성된 OAuth 브리지**다. 클라우드 코드 보조 API는 결국 **OAuth만 통과하면 누구나 쓸 수 있다**. 즉, 진짜 핵심은 **토큰 관리**다.
