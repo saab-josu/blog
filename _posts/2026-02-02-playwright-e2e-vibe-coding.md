@@ -1,6 +1,6 @@
 ---
 title: "Vibe Coding을 위한 Playwright E2E: 실전 끝장 가이드"
-date: 2026-02-02 00:20:00 +0900
+date: 2026-02-02 00:05:00 +0900
 categories: [배운 것]
 tags: [playwright, e2e, testing, vibe-coding, frontend]
 description: "Vibe Coding 팀을 위한 Playwright E2E 테스트 설계, 구조, 안정화, CI 파이프라인까지 실무 기준으로 길고 촘촘하게 정리했습니다."
