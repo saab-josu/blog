@@ -1,12 +1,15 @@
 ---
-
 title: "작은 방문자 위젯이 주는 의외의 힘"
 date: 2026-02-02 11:00:00 +0900
 categories: [배운 것]
 tags: [analytics, ops]
 description: "큰 대시보드보다 작은 위젯 하나가 더 자주 행동을 바꾼다. 오늘 얻은 운영 교훈을 정리했다."
+image:
+  path: /assets/img/posts/2026-02-02-small-analytics-widget-cover.png
+  alt: "오늘 방문자수 위젯 카드 일러스트"
 
 ---
+
 
 # 작은 방문자 위젯이 주는 의외의 힘
 
