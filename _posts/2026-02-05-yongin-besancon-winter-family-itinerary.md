@@ -30,7 +30,7 @@ tags: [용인, 한화리조트, 가족여행, 겨울, 아이동반]
 - 7–8세가 좋아하는 체험형 전시 중심
 - 관람시간은 **1회차 10:00–13:30 / 2회차 14:00–18:00**
 - **월요일 휴관, 설·추석 당일 휴관**
-- 출처: https://gcm.ggcf.kr/
+- 출처: [경기도어린이박물관](https://gcm.ggcf.kr/)
 
 **15:30 리조트 도착 & 체크인**
 
@@ -40,12 +40,12 @@ tags: [용인, 한화리조트, 가족여행, 겨울, 아이동반]
 - 도시농부/드로잉/오감/스튜디오 프로그램 등, **사전예약 필수**
 - 운영시간: **[월–금] 11:00–19:00 / [토–일] 10:00–19:30**
 - 위치: 리조트 **B1F**
-- 출처: https://www.hanwharesort.co.kr/irsweb/resort3/resort/rs_addition.do?bp_cd=0401&schMenuTp=1
+- 출처: [리조트 레크레이션 안내](https://www.hanwharesort.co.kr/irsweb/resort3/resort/rs_addition.do?bp_cd=0401&schMenuTp=1)
 
 **18:30 저녁(리조트 내 다이닝)**
 - 37.5 시그니처 레스토랑, GS25 편의점 이용 가능
 - 야외 셀프 바베큐장은 강추위에는 비추천
-- 출처: https://m2.hanwharesort.co.kr/resort/resort_place/view.do?locCd=0401
+- 출처: [한화리조트 용인 베잔송](https://m2.hanwharesort.co.kr/resort/resort_place/view.do?locCd=0401)
 
 ---
 
@@ -57,19 +57,19 @@ tags: [용인, 한화리조트, 가족여행, 겨울, 아이동반]
 - 교통/자동차 체험 + 4D 시뮬레이터 등 아이들이 좋아할 요소가 많다
 - 운영시간: **평일 09:00–17:00 / 주말 10:00–18:00**
 - 휴관: 매주 월요일, 설·추석 연휴
-- 출처: https://stm.or.kr/kor/info/guide.html
+- 출처: [삼성화재 모빌리티뮤지엄 안내](https://stm.or.kr/kor/info/guide.html)
 
 #### 옵션 B: 백남준아트센터 (미디어아트 체험)
 - 미디어아트는 아이들이 “직접 반응”을 느끼기 쉬워서 몰입도가 높다
 - 운영시간: **화–일 10:00–18:00 (입장 마감 17:00)**
 - 휴관: 월요일(공휴일 제외), 설·추석 당일
-- 출처: https://njp.ggcf.kr/pages/information
+- 출처: [백남준아트센터 관람안내](https://njp.ggcf.kr/pages/information)
 
 #### 옵션 C: 한국민속촌 눈썰매장 (짧고 강한 야외)
 - **추위를 견딜 수 있을 때만** 추천하는 겨울 특화 경험
 - 운영시간: **10:30–17:00 (정비 13:00–14:00)**
 - 운영기간: **2025.12.27 ~ 폐장 시까지**
-- 출처: https://www.seoul.go.kr/story/skate/html/2025/sub_koreanfolk.html
+- 출처: [한국민속촌 눈썰매장 안내](https://www.seoul.go.kr/story/skate/html/2025/sub_koreanfolk.html)
 
 ---
 
@@ -93,9 +93,9 @@ tags: [용인, 한화리조트, 가족여행, 겨울, 아이동반]
 
 ## 참고 링크
 
-- 한화리조트 용인 베잔송(부대시설/다이닝): https://m2.hanwharesort.co.kr/resort/resort_place/view.do?locCd=0401
-- 리조트 레크레이션(째깍섬 프로그램): https://www.hanwharesort.co.kr/irsweb/resort3/resort/rs_addition.do?bp_cd=0401&schMenuTp=1
-- 경기도어린이박물관: https://gcm.ggcf.kr/
-- 백남준아트센터: https://njp.ggcf.kr/pages/information
-- 삼성화재 모빌리티뮤지엄: https://stm.or.kr/kor/info/guide.html
-- 한국민속촌 눈썰매장: https://www.seoul.go.kr/story/skate/html/2025/sub_koreanfolk.html
+- 한화리조트 용인 베잔송(부대시설/다이닝): [링크](https://m2.hanwharesort.co.kr/resort/resort_place/view.do?locCd=0401)
+- 리조트 레크레이션(째깍섬 프로그램): [링크](https://www.hanwharesort.co.kr/irsweb/resort3/resort/rs_addition.do?bp_cd=0401&schMenuTp=1)
+- 경기도어린이박물관: [링크](https://gcm.ggcf.kr/)
+- 백남준아트센터: [링크](https://njp.ggcf.kr/pages/information)
+- 삼성화재 모빌리티뮤지엄: [링크](https://stm.or.kr/kor/info/guide.html)
+- 한국민속촌 눈썰매장: [링크](https://www.seoul.go.kr/story/skate/html/2025/sub_koreanfolk.html)
