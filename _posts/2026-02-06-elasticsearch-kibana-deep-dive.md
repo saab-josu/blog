@@ -57,6 +57,15 @@ Kibana는 Elasticsearch 데이터를 **쿼리하고, 탐색하고, 시각화하�
 
 Elasticsearch 도입 시 흔한 실수는 “검색 성능만 올리면 끝”이라고 생각하는 것이다. 데이터는 쌓였는데, **그걸 읽고 해석하는 체계**가 없다. Kibana는 그 해석 레이어다. 둘을 같이 써야 “데이터 시스템”이 된다.
 
+
+## 라이선스/기업 사용 가능 여부
+
+Elasticsearch/Kibana의 기본 라이선스는 Elastic License 2.0(ELv2)로 안내된다. 핵심은 **기업 내부 사용은 가능**하지만, **소프트웨어를 ‘관리형/호스팅 서비스’로 제공하는 건 금지**라는 점이다. 즉, 사내 시스템에 도입해 쓰는 건 문제 없고, 이를 그대로 SaaS 형태로 외부 고객에게 제공하는 모델은 제한된다.
+
+- Elastic License 2.0 원문: https://www.elastic.co/licensing/elastic-license
+
+(정확한 적용 범위/예외는 도입 전 법무 검토가 필요하다.)
+
 ## 체크리스트
 
 - Elasticsearch를 **검색 + 분석 플랫폼**으로 설계했는가?
