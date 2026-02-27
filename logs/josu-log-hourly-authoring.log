@@ -39,3 +39,40 @@
 2026-02-20 04:00:09 KST josu-log-hourly-authoring: skipped — no qualifying 1-hour 작업/운영/자동화 lesson found in repo activity (window 03:00~04:00); ending with NO_REPLY.
 2026-02-20 05:00:11 KST josu-log-hourly-authoring: skipped — no qualifying 1-hour 작업/운영/자동화 lesson found in window 04:00~05:00; ending with NO_REPLY
 2026-02-20 06:00:10 KST josu-log-hourly-authoring: published post from recent 1-hour 운영/작업 lesson (pytest dependency gate) → _posts/2026-02-20-hourly-pytest-gate-before-proof.md created; committed as branch josu-log-hourly-authoring-20260220-0600 and pushed to origin main.
+2026-02-25 11:01:04 KST josu-log-hourly-authoring: aborted — required blog-writer skill not found in available skills/paths; run ended without publishing to preserve policy compliance. NO_REPLY.
+2026-02-25 12:00:39 KST josu-log-hourly-authoring: aborted — required blog-writer skill not found in available skills/paths; run ended without publishing to preserve policy compliance. NO_REPLY.
+2026-02-25 13:00:35 KST josu-log-hourly-authoring: aborted — required blog-writer skill not found in available skills/paths; run ended without publishing to preserve policy compliance. NO_REPLY.
+2026-02-25 14:00:19 KST josu-log-hourly-authoring: aborted — required blog-writer skill not found in available skills/paths; run ended without publishing to preserve policy compliance. NO_REPLY.
+2026-02-25 16:00:23 KST josu-log-hourly-authoring: aborted — required blog-writer skill not found in available skills/paths; run ended without publishing to preserve policy compliance. NO_REPLY.
+2026-02-25 17:00:20 KST josu-log-hourly-authoring: aborted — required blog-writer skill not found in available skills/paths; run ended without publishing to preserve policy compliance. NO_REPLY.
+2026-02-25 18:00:17 KST josu-log-hourly-authoring: aborted — required blog-writer skill not found in available skills/paths; run ended without publishing to preserve policy compliance. NO_REPLY.
+2026-02-25 19:00:52 KST josu-log-hourly-authoring: aborted — required blog-writer skill not found in available skills/paths; run ended without publishing to preserve policy compliance. NO_REPLY.
+2026-02-26 03:00:21 KST josu-log-hourly-authoring: aborted — required blog-writer skill not found in available skills/paths; run ended without publishing to preserve policy compliance. NO_REPLY.
+2026-02-26 06:00:00 KST josu-log-hourly-authoring: aborted — required blog-writer skill not found in available skills/paths; run ended without publishing to preserve policy compliance. NO_REPLY.
+2026-02-26 10:00:24 KST josu-log-hourly-authoring: aborted — required blog-writer skill not found in available skills/paths; memory_search unavailable in this runtime; run ended without publishing to preserve policy compliance. NO_REPLY.
+2026-02-26 17:00:22 KST josu-log-hourly-authoring: aborted — required blog-writer skill not found in available skills/paths; run ended without publishing to preserve policy compliance. NO_REPLY.
+2026-02-26 18:00:20 KST josu-log-hourly-authoring: aborted — required blog-writer skill not found in available skills/paths; run ended without publishing to preserve policy compliance. NO_REPLY.
+2026-02-26 19:00:22 KST josu-log-hourly-authoring: aborted — required blog-writer skill not found in available skills/paths; run ended without publishing to preserve policy compliance. NO_REPLY.
+2026-02-26 20:00:57 KST josu-log-hourly-authoring: aborted — required blog-writer skill not found in available skills/paths; run ended without publishing to preserve policy compliance. NO_REPLY.
+2026-02-26 23:00:12 KST josu-log-hourly-authoring: aborted — required blog-writer skill not found in available skills/paths; skipped due to no blog post publish this run, ending with NO_REPLY.\n
+2026-02-27 00:00:20 KST josu-log-hourly-authoring: skipped — no qualifying 1-hour 작업/운영/자동화 lesson found in executable signals; run ended with NO_REPLY (blog-writer skill remains unavailable).
+2026-02-27 01:00:12 KST josu-log-hourly-authoring: aborted — no qualifying 1-hour 작업/운영/자동화 lesson found; also required blog-writer skill unavailable in registered skills/tooling, so no action taken; ending with NO_REPLY.
+2026-02-27 02:00:22 KST josu-log-hourly-authoring: skipped — no qualifying 1-hour 작업/운영/자동화 lesson found in signals (01:00~02:00 KST); ending with NO_REPLY
+2026-02-27 03:00:12 KST josu-log-hourly-authoring: skipped — no qualifying 1-hour 작업/운영/자동화 lesson found in signals (02:00~03:00 KST); required blog-writer skill still unavailable in registry, no action taken; ending with NO_REPLY.
+2026-02-27 04:00:00 KST josu-log-hourly-authoring: skipped — no qualifying 1-hour 작업/운영/자동화 lesson found in latest signal window (03:00~04:00); required blog-writer skill still unavailable in registry; ending with NO_REPLY.
+2026-02-27 05:00:12 KST KST | skipped: no qualifying 1-hour 작업/운영/자동화 lesson found in window (04:00~05:00); ended with NO_REPLY (blog-writer unavailable in tooling).
+2026-02-27 06:00:11 KST josu-log-hourly-authoring: skipped — no qualifying 1-hour 작업/운영/자동화 lesson found in latest window (05:00~06:00); ended with NO_REPLY (blog-writer skill unavailable)
+2026-02-27 07:00:12 KST josu-log-hourly-authoring: skipped — no qualifying 1-hour 작업/운영/자동화 lesson found in latest window (06:00~07:00); ended with NO_REPLY (blog-writer skill missing).
+2026-02-27 08:00:11 KST josu-log-hourly-authoring: skipped — no qualifying 1-hour 작업/운영/자동화 lesson found in latest window (07:00~08:00); ended with NO_REPLY.
+2026-02-27 09:00:00 KST josu-log-hourly-authoring: no-op — no qualifying 1-hour 작업/운영/자동화 lesson found in latest window (08:00~09:00); required blog-writer skill is not available in registered tooling, no action taken; ending with NO_REPLY.
+2026-02-27 10:00:12 KST josu-log-hourly-authoring: aborted — no qualifying 1-hour 작업/운영/자동화 lesson found in latest window (09:00~10:00); also required blog-writer skill not available in registered skills, so no action taken; ending with NO_REPLY.
+2026-02-27 11:00:13 KST josu-log-hourly-authoring: skipped — no qualifying 1-hour 작업/운영/자동화 lesson found in latest window (10:00~11:00); ended with NO_REPLY.
+2026-02-27 12:00:00 KST josu-log-hourly-authoring: skipped — no qualifying 1-hour 작업/운영/자동화 lesson found in latest window (11:00~12:00); ending with NO_REPLY.
+2026-02-27 14:00:08 KST josu-log-hourly-authoring: skipped — no qualifying 1-hour 작업/운영/자동화 lesson found in latest window (13:00~14:00); ending with NO_REPLY.
+2026-02-27 16:00:17 KST josu-log-hourly-authoring: skipped — no qualifying 1-hour 작업/운영/자동화 lesson found in latest window (15:00~16:00); ended with NO_REPLY.
+2026-02-27 17:00:27 KST josu-log-hourly-authoring: aborted — no qualifying 1-hour 작업/운영/자동화 lesson found (16:00~17:00); blog-writer workflow not executable because required skill is unavailable in registered skillset; ending with NO_REPLY.
+2026-02-27 18:00:51 KST josu-log-hourly-authoring: skipped — no qualifying 1-hour 작업/운영/자동화 lesson found in latest window (17:00~18:00); ended with NO_REPLY (blog-writer unavailable in required skill path).
+2026-02-27 19:00:32 KST josu-log-hourly-authoring: skipped — no qualifying 1-hour 작업/운영/자동화 lesson found in latest window (18:00~19:00); no action taken (NO_REPLY)
+2026-02-27 20:00:45 KST josu-log-hourly-authoring: skipped — no qualifying 1-hour 작업/운영/자동화 lesson found (19:00~20:00); ended with NO_REPLY (blog-writer skill unavailable).
+2026-02-27 21:00:13 KST josu-log-hourly-authoring: skipped — no qualifying 1-hour 작업/운영/자동화 lesson found in latest window (~20:00~21:00) and required skill blog-writer not registered in available skills/paths; ending with NO_REPLY.
+2026-02-27 22:00:02 KST josu-log-hourly-authoring: skipped — no qualifying 1-hour 작업/운영/자동화 lesson found in latest window (~21:00~22:00); no action taken; ending with NO_REPLY.
